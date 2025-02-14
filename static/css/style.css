@@ -1,0 +1,26 @@
+/* Basic custom styling for H.264 Datamosh Web Tool */
+
+body {
+    background-color: #f8f9fa;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1, h2 {
+    color: #343a40;
+}
+
+.container {
+    max-width: 800px;
+}
+
+form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+video {
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+}
