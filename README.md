@@ -29,8 +29,8 @@ A web-based tool for performing H.264 datamoshing by processing and concatenatin
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your_username/h264-datamosh-web-tool.git
-   cd h264-datamosh-web-tool
+   git clone https://github.com/Artsen/H.264-Datamosh-Web-Tool.git
+   cd H.264-Datamosh-Web-Tool
    ```
 2. **Create a Virtual Environment (optional but recommended):**
    ```bash
@@ -87,4 +87,5 @@ A web-based tool for performing H.264 datamoshing by processing and concatenatin
 - Errors during processing are handled gracefully with user-friendly notifications.
 
 ## License
+
 This project is licensed under the MIT License. See the `LICENSE` file for details.
